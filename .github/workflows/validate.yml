@@ -1,0 +1,38 @@
+name: Validate catalog
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Retrieve the exact event commit
+        shell: bash
+        run: |
+          set -euo pipefail
+          git init source
+          git -C source remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          git -C source -c core.hooksPath=/dev/null fetch --no-tags --depth 1 origin "${GITHUB_SHA}"
+          git -C source -c core.hooksPath=/dev/null checkout --detach FETCH_HEAD
+      - name: Test catalog and source retrieval safety
+        working-directory: source
+        run: python3 -m unittest -v
+      - name: Check deterministic documentation
+        working-directory: source
+        run: |
+          python3 render_catalog.py
+          git diff --exit-code
+      - name: Validate the complete selection without downloading tools
+        working-directory: source
+        run: python3 fetch_sources.py --all --dry-run
