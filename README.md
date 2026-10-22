@@ -2,6 +2,8 @@
 
 # BlueTeaming
 
+[![Validate catalog](https://github.com/bunnyho1e/BlueTeaming/actions/workflows/validate.yml/badge.svg?branch=main&event=push)](https://github.com/bunnyho1e/BlueTeaming/actions/workflows/validate.yml)
+
 **See clearly. Investigate precisely. Defend with evidence.**
 
 A curated workspace of defensive security tools, platforms, libraries, detection content and integrations from canonical GitHub and GitLab sources.
