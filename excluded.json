@@ -1,0 +1,1489 @@
+{
+  "review_date": "2026-10-21",
+  "candidates": [
+    {
+      "id": "github:wazuh/wazuh-dashboard",
+      "decision": "HOLD_QUALITY",
+      "reason": "Fork: prefer the canonical maintained upstream.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:StrangeBeeCorp/TheHive",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Velocidex/velociraptor-docs",
+      "decision": "HOLD_SCOPE",
+      "reason": "Documentation companion; retain as a reference instead of counting another tool.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Tines-Community/tines-made-simple",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:matano-io/matano",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:falconframework/falcon",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:google/rekall",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:0xrawsec/whids",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:ion-storm/sysmon-config",
+      "decision": "HOLD_QUALITY",
+      "reason": "Fork: prefer the canonical maintained upstream.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:ntop/ntopng-pro",
+      "decision": "HOLD_SCOPE",
+      "reason": "No verified public source expected for the commercial edition; do not imply source availability.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:webanck/pyrebox",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:activecm/zeek-conn-bulk",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:netcap/netcap",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:tcpdump-group/tcpdump",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:tcpdump-group/libpcap",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:SELKS/SELKS",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:abusech/SSLBL",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:StamusNetworks/suricata-update",
+      "decision": "HOLD_QUALITY",
+      "reason": "Fork: prefer the canonical maintained upstream.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:salesforce/ja3",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:mozilla/mozdef",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:SigmaHQ/pySigma-backend-microsoft365defender",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:SigmaHQ/pySigma-backend-kusto",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Splunk-Attack-Range/attack_range",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:WithSecureLabs/chainsaw",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Yamato-Security/Rusty-Blue",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:OTRF/OSSEM",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:OTRF/OSSEM-DM",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:OTRF/Set-AuditRule",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:center-for-threat-informed-defense/detection-validator",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:log2timeline/artifacts",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:log2timeline/l2tpreg",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:orc-project/dfir-orc",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Neo23x0/THOR-Remote",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:certtools/dfirtrack",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Neo23x0/Fenrir",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Fox-IT/dissect.filesystem",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:google/dfTimewolf",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Fox-IT/dissect.esedb",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:EricZimmerman/SBECmd",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:EricZimmerman/TimelineExplorer",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:EricZimmerman/SrumECmd",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:EricZimmerman/ShellBags",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:theflakes/reglookup",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:jklepsercyber/defender-detectionhistory-parser",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:mandiant/ShimCacheParser",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:sans-blue-team/DeepBlueCLI",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:skelsec/pypykatz",
+      "decision": "HOLD_SCOPE",
+      "reason": "Credential extraction; keep in the separate RedTeaming collection.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:mandiant/flare-wmi",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:volatilityfoundation/community3",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:volatilityfoundation/volatility",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:504ensicsLabs/LiME",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:AlessandroZ/LaZagneForensic",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:SekoiaLab/Fastir_Collector",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:FSecureLABS/Memory-Extract",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:SekoiaLab/Fastir_Collector_Linux",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:simsong/dfxml",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:abrignoni/ARTiFast",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:obsidianforensics/hindsight",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:swiftDialog/swiftDialog",
+      "decision": "HOLD_SCOPE",
+      "reason": "General endpoint dialog utility; outside the security-focused scope.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:stuxnet999/MemLabs",
+      "decision": "HOLD_SCOPE",
+      "reason": "Training memory dumps may contain live malware artifacts; omit from default source downloads.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:abrignoni/CCL-forensics",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:abrignoni/WLEAPP",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:SarahEdwards/APOLLO",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:secmode/Dejavu",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:mandiant/flare-capa",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:CERT-Polska/peepdf",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:mandiant/flare-qdb",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:mandiant/Dockerfiles",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:mandiant/flare-ida",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:mandiant/flare-emu",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:NotPrab/.NET-Deobfuscator",
+      "decision": "HOLD_SCOPE",
+      "reason": "Link collection with unreviewed third-party binaries; no verified single tool source.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:horsicq/StringsExtractor",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:hasherezade/malware_analysis",
+      "decision": "HOLD_SCOPE",
+      "reason": "Mixed sample/research collection; not included as an active downloadable tool.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:de4dot/de4dot",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:dnSpyEx/dnSpy",
+      "decision": "HOLD_QUALITY",
+      "reason": "Fork: prefer the canonical maintained upstream.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:CheckPointSW/CyberChef",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:CAPESandbox/CAPE",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:countercept/signedbinaryproxyexecution",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:kevinoreilly/fakeinet",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:embee-research/Seatbelt",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:JusticeRage/fibratus",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:HatchingTriage/community",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:certeu/IntelOwl",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:TheHive-Project/certex",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:OpenTAXII/OpenTAXII",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:TheHive-Project/Threat-Intelligence",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:ThreatExchange/threatexchange",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:mandiant/mandiant-ti-client",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:maliceio/malice",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Neo23x0/valhallaAPI",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Neo23x0/APT-Scanner",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Neo23x0/yarAnalyzer",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:InQuest/awesome-yara",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:endgameinc/RTA",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:pan-unit42/iocs",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:RhinoSecurityLabs/pacu",
+      "decision": "HOLD_SCOPE",
+      "reason": "Primarily an exploitation framework; outside the default defensive collection.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:stamparm/blackbook",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:lyft/cartography",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:cisagov/ScubaBuoy",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:cisagov/ScubaDive",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:ANSSI-FR/DFIR-O365RT",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:invictus-ir/UAC-Extractor",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:invictus-ir/Azure-Extractor",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Azure/azure-sdk-for-python",
+      "decision": "HOLD_SCOPE",
+      "reason": "General-purpose SDK; omit broad dependency repositories from tool counts.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:invictus-ir/aws-extractor",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:invictus-ir/google-workspace-extractor",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:cisagov/azure-ad-incident-response",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Lauzizi/EasyExplorer",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:cisagov/sparrow",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Azure/Cloud-Katana",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:orcasecurity-research/asset-discovery",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:HackTricks-wiki/CloudTricks",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:domain-protect/domain-protect",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:cisagov/ScubaQL",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:aquasecurity/kubescape",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:anchore/anchore-engine",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:kubescape/armoapi-go",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:aquasecurity/trivy",
+      "decision": "HOLD_SCOPE",
+      "reason": "Retain the existing conservative hold after the previously documented supply-chain incident; do not infer that the current source pin is malicious.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:tenable/terrascan",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:genuinetools/amicontained",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:containers/podman",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:faradaysec/faraday",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:sslyze/sslyze",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:drwetter/testssl.sh",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:sslscan/sslscan",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:vulsio/vuls",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:VulnCheck-oss/nvd-api",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:intel/cve-bin-tool",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:github/codeql-cli-binaries",
+      "decision": "HOLD_SCOPE",
+      "reason": "Binary distribution repository; this collection pins inspectable source projects.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:zricethezav/gitleaks",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:ossf/malicious-packages",
+      "decision": "HOLD_SCOPE",
+      "reason": "Known malicious package dataset; reference-only, never a default download.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:github/dependency-review-action",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:ossf/sigstore-python",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:checkstyle/checkstyle",
+      "decision": "HOLD_SCOPE",
+      "reason": "General code style checker; outside the security-focused scope.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:CycloneDX/cdxgen",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:DependencyCheck/DependencyCheck",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:OWASP/DependencyCheck",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:nodesecurity/nsp",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:ComplianceAsCode/ansible-role-rhel9-cis",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:ComplianceAsCode/ansible-role-rhel8-cis",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:nsacyber/ELF-respect",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:nsacyber/mitigating-obfuscated-files",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:nsacyber/Windows-Secure-Host-Baseline",
+      "decision": "HOLD_QUALITY",
+      "reason": "Repository is archived.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:cisagov/REShark",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:cisagov/ai-cybersecurity-collaboration-playbook",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:rapid7/metasploit-framework",
+      "decision": "HOLD_SCOPE",
+      "reason": "Primarily an exploitation framework; use the separate RedTeaming collection.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:danielmiessler/SecLists",
+      "decision": "HOLD_SCOPE",
+      "reason": "Mixed offensive wordlists; outside this defensive source collection.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:PingCastle/PingCastle",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:TrimarcJake/Locksmith",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:TrimarcJake/ForestDruid",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:evilg4p/gpp-decrypt",
+      "decision": "HOLD_SCOPE",
+      "reason": "Credential recovery utility without a necessary role in this initial defensive collection.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:netwrix/Locksmith",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:BloodHoundAD/SharpHound",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:fox-it/BloodHound.py",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:CompassSecurity/GoodHound",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:BloodHoundAD/BloodHound",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:rmilter/rspamd",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:TrimarcJake/PingCastle",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:spamassassin/spamassassin",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Raptor074/dmarc-report-converter",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:pluralsight/simple-ad-audit",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:techsneeze/dmarcts-report-parser",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:cyberdefenders/PhishDetect",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:techsneeze/dmarcts-report-viewer",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:phish-report/phish-report",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:certat/EmailAnalyzer",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:UKHomeOffice/repo-security-scanner",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:telekom-security/heralding",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:telekom-security/conpot",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:honeynet/dionaea",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:honeynet/glastopf",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:honeynet/honeytrap",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:honeytrap/honeytrap",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:auditbeat/auditbeat",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:logstash-plugins/logstash-filter-threats_classifier",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Velocidex/go-evtx",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:lawndoc/disable-defender",
+      "decision": "HOLD_SCOPE",
+      "reason": "Disables endpoint protections; outside this defensive collection.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Vannevar-Labs/velociraptor",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:certeu/cdt",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:mitre/caldera",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:center-for-threat-informed-defense/micro-emulation-plans",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:OTRF/HELK",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:NextronSystems/ransomware-simulator",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Neo23x0/DLLRunner",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Security-Datasets/EVTX-ATTACK-SAMPLES",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:splunk/botsv2",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:Yamato-Security/EVTX-ETW-Resources",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:splunk/botsv3",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:sbousseaden/EVTX-ATTACK-SAMPLES",
+      "decision": "HOLD_QUALITY",
+      "reason": "No provider-reported source push in the past three years.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:volatilityfoundation/volatility3-symbols",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:microsoft/Procmon-for-Linux",
+      "decision": "HOLD_QUALITY",
+      "reason": "Error: {\"error\":\"GitHub API error 404: {\\\"message\\\":\\\"Not Found\\\",\\\"documentation_url\\\":\\\"https://docs.github.com/rest/repos/repos#get-a-repository\\\",\\\"status\\\":\\\"404\\\"}\",\"error_code\":\"NOT_FOUND\",\"error_data\":{\"message\":\"Not Found\",\"documentation_url",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:microsoft/ProcDump-for-Linux",
+      "decision": "HOLD_QUALITY",
+      "reason": "Error: {\"error\":\"GitHub API error 404: {\\\"message\\\":\\\"Not Found\\\",\\\"documentation_url\\\":\\\"https://docs.github.com/rest/repos/repos#get-a-repository\\\",\\\"status\\\":\\\"404\\\"}\",\"error_code\":\"NOT_FOUND\",\"error_data\":{\"message\":\"Not Found\",\"documentation_url",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:microsoft/SysmonForLinux",
+      "decision": "HOLD_QUALITY",
+      "reason": "Error: {\"error\":\"GitHub API error 404: {\\\"message\\\":\\\"Not Found\\\",\\\"documentation_url\\\":\\\"https://docs.github.com/rest/repos/repos#get-a-repository\\\",\\\"status\\\":\\\"404\\\"}\",\"error_code\":\"NOT_FOUND\",\"error_data\":{\"message\":\"Not Found\",\"documentation_url",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "gitlab:sleuthkit/afflib",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "gitlab:rsharo/xmount",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "gitlab:dfir/dfir-uac",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "gitlab:dfir-uac/uac",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "gitlab:bitscout/bitscout",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "gitlab:zirkulation/attacker",
+      "decision": "HOLD_SCOPE",
+      "reason": "Unverified and offensive-sounding identity; do not substitute a guessed upstream.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "gitlab:Remnux/remnux-cli",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "gitlab:calebstewart/pwncat",
+      "decision": "HOLD_SCOPE",
+      "reason": "Post-exploitation tooling; outside this defensive collection.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "gitlab:opendmarc/opendmarc",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "gitlab:esr/open-dmarc",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "gitlab:gitlab-com/gl-security/engineering-and-research/automation-team/threat-intelligence",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "gitlab:yeti-platform/yeti",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "gitlab:sequoia-pgp/sequoia-keystore",
+      "decision": "HOLD_UNRESOLVED",
+      "reason": "Canonical provider metadata or an exact source pin could not be resolved during this review. No maliciousness conclusion is made.",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "github:PaloAltoNetworks/cortex-xql-queries",
+      "decision": "HOLD_INSUFFICIENT_SOURCE",
+      "reason": "Insufficient source/config/build bytes were available within the recorded inspection bounds.",
+      "checked_at": "2026-10-21",
+      "commit": "a3a2c0c49e3006a95053a0a4855b043e5d2b5196",
+      "inspection_summary": {
+        "inspection_mode": "SELECTED_FILES_ONLY",
+        "scanned_text_files": 2,
+        "code_or_config_files": 0,
+        "snapshot_limit_or_error": null,
+        "integrity_error": null
+      }
+    },
+    {
+      "id": "github:sleuthkit/sleuthkit",
+      "decision": "HOLD_ADVISORY",
+      "reason": "Exact commit query returned known advisory/fuzz findings: OSV-2022-1101, OSV-2022-1106, OSV-2023-225. This is not a malware finding.",
+      "checked_at": "2026-10-21",
+      "commit": "51d8672c363634436da48f7357377e79e80454c6",
+      "advisory_ids": [
+        "OSV-2022-1101",
+        "OSV-2022-1106",
+        "OSV-2023-225"
+      ],
+      "inspection_summary": {
+        "inspection_mode": "BOUNDED_SNAPSHOT",
+        "scanned_text_files": 663,
+        "code_or_config_files": 660,
+        "snapshot_limit_or_error": null,
+        "integrity_error": null
+      }
+    },
+    {
+      "id": "github:mitre/cti",
+      "decision": "HOLD_INSUFFICIENT_SOURCE",
+      "reason": "Insufficient source/config/build bytes were available within the recorded inspection bounds.",
+      "checked_at": "2026-10-21",
+      "commit": "50be388e93819a5d20e71cbaaeccfda157abc846",
+      "inspection_summary": {
+        "inspection_mode": "SELECTED_FILES_ONLY",
+        "scanned_text_files": 2,
+        "code_or_config_files": 0,
+        "snapshot_limit_or_error": "Large source tree: selected-file inspection",
+        "integrity_error": null
+      }
+    },
+    {
+      "id": "github:fkie-cad/nvd-json-data-feeds",
+      "decision": "HOLD_INSUFFICIENT_SOURCE",
+      "reason": "Insufficient source/config/build bytes were available within the recorded inspection bounds.",
+      "checked_at": "2026-10-21",
+      "commit": "2ef7000a16a03b5c9a9e4f233994905e7c1a7d1d",
+      "inspection_summary": {
+        "inspection_mode": "SELECTED_FILES_ONLY",
+        "scanned_text_files": 1,
+        "code_or_config_files": 0,
+        "snapshot_limit_or_error": "Large source tree: selected-file inspection",
+        "integrity_error": null
+      }
+    },
+    {
+      "id": "github:VulnCheck-oss/go-exploit",
+      "decision": "HOLD_SCOPE",
+      "reason": "Exploit development library; use the separate RedTeaming collection.",
+      "checked_at": "2026-10-21",
+      "commit": "a85ad19f821bf1dafa51354d5febb34e8bf37e09",
+      "inspection_summary": {
+        "inspection_mode": "SELECTED_FILES_ONLY",
+        "scanned_text_files": 7,
+        "code_or_config_files": 5,
+        "snapshot_limit_or_error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "integrity_error": null
+      }
+    },
+    {
+      "id": "github:JPCERTCC/EmoCheck",
+      "decision": "HOLD_INSUFFICIENT_SOURCE",
+      "reason": "Insufficient source/config/build bytes were available within the recorded inspection bounds.",
+      "checked_at": "2026-10-21",
+      "commit": "f1092a7dc25323edd8087700152d929e62ae2344",
+      "inspection_summary": {
+        "inspection_mode": "SELECTED_FILES_ONLY",
+        "scanned_text_files": 1,
+        "code_or_config_files": 0,
+        "snapshot_limit_or_error": null,
+        "integrity_error": null
+      }
+    },
+    {
+      "id": "github:linux-audit/audit-documentation",
+      "decision": "HOLD_INSUFFICIENT_SOURCE",
+      "reason": "Insufficient source/config/build bytes were available within the recorded inspection bounds.",
+      "checked_at": "2026-10-21",
+      "commit": "73ff7e6893c681a5b827a897615c7c1f5e8bb557",
+      "inspection_summary": {
+        "inspection_mode": "SELECTED_FILES_ONLY",
+        "scanned_text_files": 2,
+        "code_or_config_files": 0,
+        "snapshot_limit_or_error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "integrity_error": null
+      }
+    },
+    {
+      "id": "github:splunk/botsv1",
+      "decision": "HOLD_INSUFFICIENT_SOURCE",
+      "reason": "Insufficient source/config/build bytes were available within the recorded inspection bounds.",
+      "checked_at": "2026-10-21",
+      "commit": "97fb3f25d2b6dcdcd4d0aa23864587ac2093a321",
+      "inspection_summary": {
+        "inspection_mode": "SELECTED_FILES_ONLY",
+        "scanned_text_files": 2,
+        "code_or_config_files": 0,
+        "snapshot_limit_or_error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "integrity_error": null
+      }
+    },
+    {
+      "id": "github:Cisco-Talos/clamav",
+      "decision": "HOLD_ADVISORY",
+      "reason": "Exact commit query returned known advisory/fuzz findings: OSV-2022-1068, OSV-2022-636, OSV-2022-94. This is not a malware finding.",
+      "checked_at": "2026-10-21",
+      "commit": "72cd48c9faed4fa4afc22bc4ed0b9b19f8d3f8f7",
+      "advisory_ids": [
+        "OSV-2022-1068",
+        "OSV-2022-636",
+        "OSV-2022-94"
+      ],
+      "inspection_summary": {
+        "inspection_mode": "SELECTED_FILES_ONLY",
+        "scanned_text_files": 6,
+        "code_or_config_files": 4,
+        "snapshot_limit_or_error": null,
+        "integrity_error": null
+      }
+    },
+    {
+      "id": "gitlab:cryptsetup/cryptsetup",
+      "decision": "HOLD_INSUFFICIENT_SOURCE",
+      "reason": "Insufficient source/config/build bytes were available within the recorded inspection bounds.",
+      "checked_at": "2026-10-21",
+      "commit": "bae21790d59897ac50e5471f953f76b3a58aeeb6",
+      "inspection_summary": {
+        "inspection_mode": "SELECTED_FILES_ONLY",
+        "scanned_text_files": 0,
+        "code_or_config_files": 0,
+        "snapshot_limit_or_error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "integrity_error": null
+      }
+    },
+    {
+      "id": "gitlab:gitlab-org/security-products/analyzers/semgrep",
+      "decision": "HOLD_INSUFFICIENT_SOURCE",
+      "reason": "Insufficient source/config/build bytes were available within the recorded inspection bounds.",
+      "checked_at": "2026-10-21",
+      "commit": "ae62d4e8112d16d13c20e562f4e1e1ea6aae7eeb",
+      "inspection_summary": {
+        "inspection_mode": "SELECTED_FILES_ONLY",
+        "scanned_text_files": 0,
+        "code_or_config_files": 0,
+        "snapshot_limit_or_error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "integrity_error": null
+      }
+    },
+    {
+      "id": "gitlab:gitlab-org/security-products/analyzers/kics",
+      "decision": "HOLD_INSUFFICIENT_SOURCE",
+      "reason": "Insufficient source/config/build bytes were available within the recorded inspection bounds.",
+      "checked_at": "2026-10-21",
+      "commit": "23e6a8115cb8a2556758014c5731ce71c2b22d59",
+      "inspection_summary": {
+        "inspection_mode": "SELECTED_FILES_ONLY",
+        "scanned_text_files": 0,
+        "code_or_config_files": 0,
+        "snapshot_limit_or_error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "integrity_error": null
+      }
+    },
+    {
+      "id": "gitlab:gitlab-org/security-products/analyzers/secrets",
+      "decision": "HOLD_INSUFFICIENT_SOURCE",
+      "reason": "Insufficient source/config/build bytes were available within the recorded inspection bounds.",
+      "checked_at": "2026-10-21",
+      "commit": "25bccbc3bc94a313c6b9413fae412fe339f5d6d8",
+      "inspection_summary": {
+        "inspection_mode": "SELECTED_FILES_ONLY",
+        "scanned_text_files": 0,
+        "code_or_config_files": 0,
+        "snapshot_limit_or_error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "integrity_error": null
+      }
+    },
+    {
+      "id": "gitlab:gitlab-org/security-products/analyzers/container-scanning",
+      "decision": "HOLD_INSUFFICIENT_SOURCE",
+      "reason": "Insufficient source/config/build bytes were available within the recorded inspection bounds.",
+      "checked_at": "2026-10-21",
+      "commit": "fa5e43f467885937d3d02c1a5c396468f90129c4",
+      "inspection_summary": {
+        "inspection_mode": "SELECTED_FILES_ONLY",
+        "scanned_text_files": 0,
+        "code_or_config_files": 0,
+        "snapshot_limit_or_error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "integrity_error": null
+      }
+    },
+    {
+      "id": "gitlab:sequoia-pgp/sequoia",
+      "decision": "HOLD_INSUFFICIENT_SOURCE",
+      "reason": "Insufficient source/config/build bytes were available within the recorded inspection bounds.",
+      "checked_at": "2026-10-21",
+      "commit": "eba129ea3d097a524acccea9ba14eb8e6751a001",
+      "inspection_summary": {
+        "inspection_mode": "SELECTED_FILES_ONLY",
+        "scanned_text_files": 0,
+        "code_or_config_files": 0,
+        "snapshot_limit_or_error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "integrity_error": null
+      }
+    },
+    {
+      "id": "gitlab:sequoia-pgp/sequoia-sq",
+      "decision": "HOLD_INSUFFICIENT_SOURCE",
+      "reason": "Insufficient source/config/build bytes were available within the recorded inspection bounds.",
+      "checked_at": "2026-10-21",
+      "commit": "594035294235162caa353baa039dc10951fdcb23",
+      "inspection_summary": {
+        "inspection_mode": "SELECTED_FILES_ONLY",
+        "scanned_text_files": 0,
+        "code_or_config_files": 0,
+        "snapshot_limit_or_error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "integrity_error": null
+      }
+    },
+    {
+      "id": "gitlab:openpgp-ca/openpgp-ca",
+      "decision": "HOLD_INSUFFICIENT_SOURCE",
+      "reason": "Insufficient source/config/build bytes were available within the recorded inspection bounds.",
+      "checked_at": "2026-10-21",
+      "commit": "0c1e5f4924a00f708c005a454f5a8bb6335885c2",
+      "inspection_summary": {
+        "inspection_mode": "SELECTED_FILES_ONLY",
+        "scanned_text_files": 0,
+        "code_or_config_files": 0,
+        "snapshot_limit_or_error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "integrity_error": null
+      }
+    }
+  ]
+}

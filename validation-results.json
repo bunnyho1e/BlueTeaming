@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-21",
+  "python": "3.12.14",
+  "git": "git version 2.51.1",
+  "unit_tests": {
+    "passed": 14,
+    "failed": 0
+  },
+  "profile_dry_runs": 15,
+  "category_dry_runs": 20,
+  "active_source_dry_run": 410,
+  "python_39_check": "Grammar validation only; runtime tests used the Python version above.",
+  "documentation_rendering": "Deterministic",
+  "live_fetches": [
+    {
+      "id": "github:SigmaHQ/sigma-cli",
+      "status": "PASS",
+      "commit": "863c714109c2001050dc99f7d54b97e72bf8463e"
+    },
+    {
+      "id": "github:williballenthin/python-evtx",
+      "status": "PASS",
+      "commit": "c0007441657899c39180de10a2be1a0e43dbeaf9"
+    },
+    {
+      "id": "gitlab:apparmor/apparmor",
+      "status": "PASS",
+      "commit": "1144725f756607afdffbaf8dc3fced18332b4e4e"
+    }
+  ],
+  "executed_upstream": false,
+  "hosted_ci": "Consult the GitHub Actions workflow; local results are recorded separately."
+}

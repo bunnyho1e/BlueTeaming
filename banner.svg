@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+<title id="title">BlueTeaming</title><desc id="desc">Defensive security sources with transparent review evidence.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071322"/><stop offset="1" stop-color="#102b48"/></linearGradient><linearGradient id="accent" x2="1" y2="1"><stop stop-color="#57e1ed"/><stop offset="1" stop-color="#4286ff"/></linearGradient></defs>
+<rect width="1200" height="270" rx="18" fill="url(#bg)"/>
+<g fill="none" stroke="#296395" stroke-opacity=".22"><path d="M800 0v270M880 0v270M960 0v270M1040 0v270M1120 0v270M760 55h440M760 135h440M760 215h440"/><circle cx="1000" cy="135" r="104"/><circle cx="1000" cy="135" r="66"/></g>
+<g transform="translate(65 55)"><path d="M64 0 124 24v51c0 43-28 69-60 86C32 144 4 118 4 75V24Z" fill="#0d3152" stroke="url(#accent)" stroke-width="4"/><path d="M30 81h22l12-29 18 54 12-25h18" fill="none" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif"><text x="238" y="92" font-size="16" font-weight="600" letter-spacing="3" fill="#72dbe9">DETECTION / RESPONSE / DEFENSE</text><text x="235" y="155" font-size="58" font-weight="750" fill="#f4f8ff">BlueTeaming</text><text x="238" y="193" font-size="20" fill="#b6cce2">Practical capabilities. Transparent evidence.</text><text x="238" y="233" font-size="15" fill="#89b2d7">410 source projects   /   20 capability areas   /   15 workflow profiles</text></g>
+</svg>
